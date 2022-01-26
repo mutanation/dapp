@@ -1,0 +1,19 @@
+{
+  "CONTRACT_ADDRESS": "0x06a3710B50B3d0F87AE729A3211d5522A66E0aeF",
+  "SCAN_LINK": "https://polygonscan.com/address/0x06a3710b50b3d0f87ae729a3211d5522a66e0aef",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Mutanation Space Marauders",
+  "SYMBOL": "MUTAN",
+  "MAX_SUPPLY": 9999,
+  "WEI_COST": 5000000000000000000,
+  "DISPLAY_COST": 5,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opensea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/mutanation-space-marauders",
+  "SHOW_BACKGROUND": true,
+  "SIGNER_URL": "http://localhost:3001"
+}
